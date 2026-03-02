@@ -20,6 +20,10 @@ Power Query
 Data Cleaning
 Data Visualization
 Basic Data Analysis Concepts
+Power Bi 
+Dax
+Tablleau
+MySql
 
 📈 Key Insights
 
